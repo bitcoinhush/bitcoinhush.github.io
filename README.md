@@ -6,7 +6,11 @@ Bitcoin Hush is the first project to use Black Mirror-approved [Codger The UTXO 
 
 HODL!!!!!!
 
-A block height closest to (but not later than) 12pm NOON UTC on Jan 16th 2018 for each chain will be chosen at the "UTXO migration set", make sure to HODL your coins until then. Unconfirmed transactions in flight WILL NOT BE COUNTED. The mempool will be ignored!!!!
+A block height closest to (but not later than) 
+
+# 12pm NOON UTC on Jan 16th 2018
+
+for each chain will be chosen at the "UTXO migration set", make sure to HODL your coins until then. Unconfirmed transactions in flight WILL NOT BE COUNTED. The mempool will be ignored!!!!
 
 * For each 1 HUSH, you will get 1 BTCH.
 * For each 1 SUPERNET, you will get 1 BTCH.
