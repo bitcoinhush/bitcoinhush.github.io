@@ -37,3 +37,14 @@ The first exchange to support BTCH will be BarterDEX, atomic swaps have already 
 # Wallets?
 
 Web + Light Wallets Coming Soon
+
+# Whitepaper?
+
+You better believe it, LaTeX and everything. In due time.
+
+# How can I learn more?
+
+Join the madness that is our [Discord](https://discord.io/hush/)
+
+
+
