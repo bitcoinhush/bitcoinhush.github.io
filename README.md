@@ -8,6 +8,13 @@ HODL!!!!!!
 
 A block height closest to (but not later than) 12pm NOON UTC on Jan 16th 2018 for each chain will be chosen at the "UTXO migration set", make sure to HODL your coins until then. Unconfirmed transactions in flight WILL NOT BE COUNTED. The mempool will be ignored!!!!
 
+For each 1 HUSH, you will get 1 BTCH.
+For each 1 SUPERNET, you will get 1 BTCH.
+For each 1 DEX, you will get 1 BTCH.
+For each 1 BTC, you will get 1 BTCH.
+
+For each of any other Bitcoin fork, you get nothing.
+
 # Is this a joke?
 
 No. Have you seen BTG and BTCP? We can actually code, lol!
