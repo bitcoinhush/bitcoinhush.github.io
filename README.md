@@ -19,8 +19,13 @@ Yes, but it's a seniority-first kind of thing, contact Duke if you are cryptocoi
 # What makes BTCH different than all the other BTC shitforks?
 
 BTCH takes the *value* from four different blockchains (HUSH,SUPERNET,DEX,BTC), and then dumps it onto a *mother chain* Komodo (KMD).
+Five blockchains/cryptocoins are involved in this research project, which has never before ever been attempted nor completed.
 So BTCH is actually a Komodo asset chain with all the money from four other different blockchains, mixed into one big HODLer tossed salad.
 Also, BTCH is protected by the FULL SECURITY of Bitcoin because Komodo has delayed Proof-Of-Work (dPOW) which essentially synchs the KMD blockchain to the BTC blockchain occasionally. This means that you must have enough hash power to mess with BTC itself to mess with a KMD asset chain.
+
+# No seriously, is the above a big technical jargon joke?
+
+Nope, we are too legit to quit this bit.
 
 # What will happen to Hush?
 
