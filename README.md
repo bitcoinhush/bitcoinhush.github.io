@@ -58,6 +58,8 @@ Web + Light Wallets Coming Soon
 
 You better believe it, LaTeX and everything. In due time.
 
+<img src="/hush_whitepaper_oh_shit.png">
+
 # How can I learn more?
 
 Join the madness that is our [Discord](https://discord.io/hush/)
