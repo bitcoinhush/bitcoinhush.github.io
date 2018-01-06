@@ -58,5 +58,9 @@ You better believe it, LaTeX and everything. In due time.
 
 Join the madness that is our [Discord](https://discord.io/hush/)
 
+# This site sucks!!!
+
+[Patches welcome!!!](https://github.com/bitcoinhush/bitcoinhush.github.io/blob/master/README.md)
+
 
 
