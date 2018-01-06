@@ -6,7 +6,7 @@ Bitcoin Hush is the first project to use Black Mirror-approved [Codger The UTXO 
 
 HODL!!!!!!
 
-A block height closest to (but not later than) 12pm NOON UTC on Jan 16th 2018 will be chosen at the "UTXO migration set", make sure to HODL your coins until then. Unconfirmed transactions in flight WILL NOT BE COUNTED.
+A block height closest to (but not later than) 12pm NOON UTC on Jan 16th 2018 for each chain will be chosen at the "UTXO migration set", make sure to HODL your coins until then. Unconfirmed transactions in flight WILL NOT BE COUNTED.
 
 # Is this a joke?
 
