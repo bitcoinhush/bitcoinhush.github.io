@@ -21,15 +21,19 @@ For each of any other Bitcoin fork, you get nothing.
 
 # Is this a joke?
 
-No. Have you seen BTG and BTCP? We can actually code, lol!
+Nope!
 
 # Can other coins use Codger The Lodger?
 
 Yes, but it's a seniority-first kind of thing, contact Duke if you are cryptocoin OG.
 
-# What makes BTCH different than all the other BTC shitforks?
+# What makes BTCH different than all the other BTC forks and things?
 
-BTCH takes the *value* from four different blockchains (HUSH,SUPERNET,DEX,BTC), and then dumps it onto a *mother chain* Komodo (KMD).
+BTCH is not something that has ever existed before, it is not a chain split nor code fork of HUSH, nor ZEC, nor BTC, it is a KMD asset chain with imported UTXO dataset. 
+
+BTCH takes the *value* from four different blockchains (HUSH,SUPERNET,DEX,BTC), and then dumps it onto a *host chain* Komodo (KMD).
+It does not fork from KMD, nor does it fork from BTC or HUSH. You can think of it as an "immaculate merge fork".
+
 Five blockchains/cryptocoins are involved in this research project, which has never before ever been attempted nor completed.
 So BTCH is actually a Komodo asset chain with all the money from four other different blockchains, mixed into one big HODLer tossed salad.
 Also, BTCH is protected by the FULL SECURITY of Bitcoin because Komodo has delayed Proof-Of-Work (dPOW) which essentially synchs the KMD blockchain to the BTC blockchain occasionally. This means that you must have enough hash power to mess with BTC itself to mess with a KMD asset chain.
@@ -53,6 +57,10 @@ The first exchange to support BTCH will be BarterDEX, atomic swaps have already 
 # Wallets?
 
 Web + Light Wallets Coming Soon
+
+# Satoshi's Coins?
+
+We have no plan to steal Satoshi's coins like other coins, that seems disrepectful.
 
 # Whitepaper?
 
