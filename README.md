@@ -49,7 +49,7 @@ The first exchange to support BTCH will be BarterDEX, atomic swaps have already 
 
 # Sustainable development?
 
-Yes, there will be a 165,000 BTCH development fund managed by jl777 to fund ongoing needs of the community.
+Yes, there will be a 15,000 BTCH development fund managed by jl777 to fund ongoing needs of the community.
 
 # Wallets?
 
