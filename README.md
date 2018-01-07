@@ -19,9 +19,6 @@ for each chain will be chosen at the "UTXO migration set", make sure to HODL you
 
 For each of any other Bitcoin fork, you get nothing.
 
-# Is this a joke?
-
-Nope!
 
 # Can other coins use Codger The Lodger?
 
@@ -37,10 +34,6 @@ It does not fork from KMD, nor does it fork from BTC or HUSH. You can think of i
 Five blockchains/cryptocoins are involved in this research project, which has never before ever been attempted nor completed.
 So BTCH is actually a Komodo asset chain with all the money from four other different blockchains, mixed into one big HODLer tossed salad.
 Also, BTCH is protected by the FULL SECURITY of Bitcoin because Komodo has delayed Proof-Of-Work (dPOW) which essentially synchs the KMD blockchain to the BTC blockchain occasionally. This means that you must have enough hash power to mess with BTC itself to mess with a KMD asset chain.
-
-# No seriously, is the above a big technical jargon joke?
-
-Nope, we are too legit to quit this bit.
 
 # What will happen to Hush?
 
