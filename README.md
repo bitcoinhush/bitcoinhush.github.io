@@ -1,8 +1,8 @@
-# Bitcoin Hush (BTCH): Research + Development Airdrop for HUSH, SUPERNET, DEX and BTC HODLers
+# Bitcoin Hush (BTCH): Research + Development Airdrop for HODLers
 
 <img src="/btch_abstract.png">
 
-Bitcoin Hush is the first project to use Black Mirror-approved [Codger The UTXO Lodger](https://twitter.com/dukeleto/status/948680869329317888)  technology to transport UTXOs (unspent transaction outputs) across chains (brains) with very little effort and extreme security due to brand new cryptocoin techniques from Duke Leto and jl777.
+Bitcoin Hush is the first project to use Black Mirror-approved [Codger The UTXO Lodger](https://twitter.com/dukeleto/status/948680869329317888)  technology to transport UTXOs (unspent transaction outputs) across chains (brains) with very little effort and extreme security due to brand new cryptocoin techniques from jl777 and Duke Leto.
 
 # How Do I Get my Airdrop?
 
@@ -21,6 +21,10 @@ for each chain will be chosen at the "UTXO migration set", make sure to HODL you
 * For each 1 BTC, you will get 1 BTCH.
 
 For each of any other Bitcoin fork, you get nothing.
+
+# Will everything be done and launch at the above time?
+
+No, the full network is expected to launch some time in February, since there needs to be time to decide on a final value for each taddr, and then make many many transactions on the BTCH chain to fill the appropriate taddrs with value on the BTCH chain.
 
 # What makes BTCH different than all the other BTC forks and things?
 
