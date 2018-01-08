@@ -1,6 +1,6 @@
 # Bitcoin Hush (BTCH): Research + Development Airdrop for HODLers
 
-<img src="/btch_abstract.png">
+
 
 Bitcoin Hush is the first project to use Black Mirror-approved [Codger The UTXO Lodger](https://twitter.com/dukeleto/status/948680869329317888)  technology to transport UTXOs (unspent transaction outputs) across chains (brains) with very little effort and extreme security due to brand new cryptocoin techniques from jl777 and Duke Leto.
 
@@ -60,6 +60,8 @@ We have no plan to steal Satoshi's coins like other coins, that seems disrepectf
 # Full Whitepaper?
 
 You better believe it, it will be released on Github soon.
+
+<img src="/btch_abstract.png">
 
 # How can I learn more?
 
