@@ -6,7 +6,8 @@ Bitcoin Hush is the first project to use Black Mirror-approved [Codger The UTXO 
 
 # How Do I Get my Airdrop?
 
-HODL!!!!!!
+You must HODL your private key (not on an exchange!) in a transparent address. Since only HUSH has shielded addresses in this airdrop,
+HUSH HODLers with value inside of shielded *zaddrs* must choose to migrate it to taddrs before the snapshot date or simply enjoy their freedom via the zkSNARKs that protect their address balances.
 
 A block height closest to (but not later than) 
 
@@ -20,11 +21,6 @@ for each chain will be chosen at the "UTXO migration set", make sure to HODL you
 * For each 1 BTC, you will get 1 BTCH.
 
 For each of any other Bitcoin fork, you get nothing.
-
-
-# Can other coins use Codger The Lodger?
-
-Yes, but it's a seniority-first kind of thing, contact Duke if you are cryptocoin OG.
 
 # What makes BTCH different than all the other BTC forks and things?
 
@@ -57,13 +53,13 @@ Yes, there will be a 15,000 BTCH development fund managed by jl777 to fund ongoi
 
 Web + Light Wallets Coming Soon
 
-# Satoshi's Coins?
+# What will you do with Satoshi's Coins?
 
 We have no plan to steal Satoshi's coins like other coins, that seems disrepectful.
 
-# Whitepaper?
+# Full Whitepaper?
 
-You better believe it, LaTeX and everything. In due time.
+You better believe it, it will be released on Github soon.
 
 # How can I learn more?
 
@@ -72,6 +68,7 @@ Join our friendly and welcoming [Discord](https://discord.io/hush/) to learn mor
 # This site could be better!!!
 
 [Patches welcome!!!](https://github.com/bitcoinhush/bitcoinhush.github.io/blob/master/README.md)
+
 
 
 
