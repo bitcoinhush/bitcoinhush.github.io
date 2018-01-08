@@ -49,10 +49,6 @@ The first exchange to support BTCH will be BarterDEX, atomic swaps have already 
 
 Yes, there will be a 15,000 BTCH development fund managed by jl777 to fund ongoing needs of the community.
 
-# Wallets?
-
-Web + Light Wallets Coming Soon
-
 # What will you do with Satoshi's Coins?
 
 We have no plan to steal Satoshi's coins like other coins, that seems disrepectful.
