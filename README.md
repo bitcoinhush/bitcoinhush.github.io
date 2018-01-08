@@ -65,9 +65,9 @@ You better believe it, LaTeX and everything. In due time.
 
 # How can I learn more?
 
-Join the madness that is our [Discord](https://discord.io/hush/)
+Join our friendly and welcoming [Discord](https://discord.io/hush/) to learn more. This is an educational project and the more you learn, the better off the entire Bitcoin community will be.
 
-# This site sucks!!!
+# This site could be better!!!
 
 [Patches welcome!!!](https://github.com/bitcoinhush/bitcoinhush.github.io/blob/master/README.md)
 
