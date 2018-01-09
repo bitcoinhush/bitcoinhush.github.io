@@ -15,9 +15,9 @@ A block height closest to (but not later than)
 
 for each chain will be chosen at the "UTXO migration set", make sure to HODL your coins until then. Unconfirmed transactions in flight WILL NOT BE COUNTED. The mempool will be ignored!!!!
 
-* For each 1 HUSH, you will get 1 BTCH.
-* For each 1 SUPERNET, you will get 1 BTCH.
-* For each 1 DEX, you will get 1 BTCH.
+* For each 1 [HUSH](https://www.myhush.org), you will get 1 BTCH.
+* For each 1 [SUPERNET/Unity](https://coinmarketcap.com/currencies/supernet-unity/), you will get 1 BTCH.
+* For each 1 [DEX](https://coinmarketcap.com/currencies/instantdex/), you will get 1 BTCH.
 * For each 1 BTC, you will get 1 BTCH.
 
 For each of any other Bitcoin fork, you get nothing.
