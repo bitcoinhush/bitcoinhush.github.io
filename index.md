@@ -1,5 +1,9 @@
-# Bitcoin Hush BTCH
-
+<html>
+  <head>
+    <title>Bitcoin Hush: BTCH</title>
+  </head>
+ <body>
+   
 ## How Do I Get my Airdrop?
 
 You must HODL your private key (not on an exchange!) in a transparent address. Since only HUSH has shielded addresses in this airdrop,
@@ -67,4 +71,6 @@ Join our friendly and welcoming [Discord](https://discord.io/hush/) to learn mor
 # This site could be better!!!
 
 [Patches welcome!!!](https://github.com/bitcoinhush/bitcoinhush.github.io/blob/master/README.md)
+ </body>
+<html>
 
