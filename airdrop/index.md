@@ -4,7 +4,7 @@
 The first thing you need to know is that you need your private key from your Hush wallet. You will use that key in the Agama wallet to unlock your BTCH airdrop. If you do not have your private key you cannot receive your airdrop. Your private key is in Wallet Import Format (WIF) and looks like this:
 
 
-![WIF](https://github.com/clamoring/Collecting_BTCH_airdrop/blob/master/private_key_file.png "WIF")
+![WIF](https://raw.githubusercontent.com/clamoring/Collecting_BTCH_airdrop/master/private_key_file.png "WIF")
 
 
 The actual WIF is the first part of that first line. It starts with 'KwN'. That is the WIF for the transparent address (taddr) listed, which starts with 't1UM'. This example shows two WIFs and their associated taddrs.
