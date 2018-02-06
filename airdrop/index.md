@@ -1,6 +1,8 @@
 
 ### How to Collect the BTCH Airdrop
 
+by Tamsin Thorn
+
 The first thing you need to know is that you need your private key from your Hush wallet. You will use that key in the Agama wallet to unlock your BTCH airdrop. If you do not have your private key you cannot receive your airdrop. Your private key is in Wallet Import Format (WIF) and looks like this:
 
 
