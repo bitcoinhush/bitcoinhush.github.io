@@ -65,12 +65,15 @@
           <h2 id="how-do-i-get-my-airdrop">How Do I Get my Airdrop?</h2>
           <div class="row-fluid">
             <div class="span6">
-              <p>You must HODL your private key (not on an exchange!) in a transparent address. Since only HUSH has shielded addresses in this airdrop,
-              HUSH HODLers with value inside of shielded <em>zaddrs</em> must choose to migrate it to taddrs before the snapshot date or simply enjoy their freedom via the zkSNARKs that protect their address balances.</p>
-              <p>A block height closest to (but not later than) <b id="the_date">12pm NOON UTC on Feb 1st 2018</b></p>
+              <p>In order to receive Bitcoin Hush during the airdrop, you must hold your coins in a wallet address where you are the owner of the private keys. 
+                (Do <b>NOT</b> hold your coins on an exchange!) If you are holding HUSH, be sure you are holding your coins in TRANSPARENT addresses (<em>taddrs</em>), and <b>NOT SHIELDED</b> addresses (zaddrs).
+                If you own HUSH on a zaddr your total balance is shielded from public view, and there can be no way to confirm how many coins you have. Therefore, you cannot be compensated BTCH when the airdrop occurs. You must transfer any coins from any zaddrs to taddrs to receive your BTCH.
+                If you wish to keep the shielding privacy granted by zaddrs through ZK-Snarks, you may do so at the cost of not getting BTCH when the airdrop occurs.</p>
+              
+              <p>The Bitcoin Hush Airdrop will occur at a block height closest to (but not later than) <b id="the_date">12pm NOON UTC on Feb 1st 2018</b></p>
             </div>
             <div class="span6">
-              <p>For each chain will be chosen at the “UTXO migration set”, make sure to HODL your coins until then. Unconfirmed transactions in flight WILL NOT BE COUNTED. The mempool will be ignored!!!!</p>
+              <p>For each chain will be chosen at the “UTXO migration set”, make sure to HODL your coins until then. Unconfirmed transactions in flight <b>WILL NOT BE COUNTED</b>. The mempool will be ignored!</p>
               <ul>
                 <li>For each 1 <a href="https://www.myhush.org">HUSH</a>, you will get 1 BTCH.</li>
                 <li>For each 1 <a href="https://coinmarketcap.com/currencies/supernet-unity/">SUPERNET/Unity</a>, you will get 1 BTCH.</li>
@@ -78,64 +81,77 @@
                 <li>For each 1 BTC, you will get 1 BTCH.</li>
               </ul>
 
-              <p>For each of any other Bitcoin fork, you get nothing.</p>
+              <p>For any other cryptocurrency or fork, you get nothing. (e.g. Owning Bitcoin Cash or Dogecoin will not get you any BTCH).</p>
             </div>
           </div>
 
-          <h3 id="will-everything-be-done-and-launch-at-the-above-time">Will everything be done and launch at the above time?</h3>
+          <h3 id="will-everything-be-done-and-launch-at-the-above-time">Will everything be done and launch at the above specified time?</h3>
 
           <p>No, the full network is expected to launch some time in February, since there needs to be time to decide on a final value for each taddr, and then make many many transactions on the BTCH chain to fill the appropriate taddrs with value on the BTCH chain.</p>
 
-          <h3 id="what-makes-btch-different-than-all-the-other-btc-forks-and-things">What makes BTCH different than all the other BTC forks and things?</h3>
+          <h3 id="what-makes-btch-different-than-all-the-other-btc-forks-and-things">What is Bitcoin Hush?</h3>
 
-          <p>BTCH is not something that has ever existed before, it is not a chain split nor code fork of HUSH, nor ZEC, nor BTC, it is a KMD asset chain with imported UTXO dataset.</p>
+          <p>BTCH is a KMD asset chain with imported UTXO dataset. It is <b>NOT</b> a chain split nor code fork of HUSH, nor ZEC, nor BTC.</p>
 
           <p>BTCH takes the <em>value</em> from four different blockchains (HUSH,SUPERNET,DEX,BTC), and then dumps it onto a <em>host chain</em> Komodo (KMD).
           It does not fork from KMD, nor does it fork from BTC or HUSH. It is technically NOT A FORK, but a merged airdrop.</p>
 
-          <p>So BTCH is actually a Komodo asset chain with all the money from four other different blockchains, mixed into one big HODLer tossed salad.
-          Also, BTCH is protected by the full hashpower of Bitcoin because Komodo has delayed Proof-Of-Work (<a href="https://github.com/SuperNETorg/komodo/wiki/Delayed-Proof-of-Work-(dPoW)-Whitepaper">dPOW)</a> which essentially syncs the KMD blockchain to the BTC blockchain occasionally. This means that you must have enough hash power to mess with BTC itself to mess with KMD OR a KMD asset chain.</p>
+          <p>BTCH is actually a Komodo asset chain with all the money from four other different blockchains, mixed into one big bag.
+          Also, BTCH is protected by the full hashpower of Bitcoin because Komodo has delayed Proof-Of-Work (<a href="https://github.com/SuperNETorg/komodo/wiki/Delayed-Proof-of-Work-(dPoW)-Whitepaper">dPOW)</a> which syncs the KMD blockchain to the BTC blockchain occasionally. This means that if you had malicious intent and wanted to compromise the BTCH chain, you must first have enough hash power to mess with BTC itself to then subsequently also be able to mess with KMD OR a KMD asset chain.</p>
 
+          <h3 id="what-makes-btch-different-than-all-the-other-btc-forks-and-things">What is the Hushlist Protocol?</h3>
+          
+          <p>HushList is a protocol for mailing lists using the encrypted memo field of the <em>Zcash</em> protocol. It
+            supports anonymous and pseudonymous senders, anonymous receivers and Hushlist creators, as well
+            as public and private lists. In addition to the above properties, HushList provides users with censorship-resistant storage and
+            retrieval, since every Hush full node will have an encrypted copy of every HushList memo. Furthermore,
+            sending and receiving via one or more blockchains is a serious deviation from traditional serverclient
+            design which easily allows a Man-In-The-Middle Attack and Deep Packet Inspection (DPI).</p>
+          
+          <p>You can read the full pre-release whitepaper for the Hushlist Protocol <a href=https://github.com/leto/hushlist/blob/master/whitepaper/protocol.pdf>here</a>.</p>
+          
           <h3 id="what-will-happen-to-hush">What will happen to Hush?</h3>
 
-          <p>Hush is the mother chain to BTCH, and has it’s own network, it’s not going anywhere. BTCH is a new coin to try out things that are just simply impossible with one blockchain that already exists. So we had to create a new coin to try these bleeding-edge ideas out, and now you get free money!!!</p>
+          <p>Hush is the mother chain to BTCH, and has it’s own network, it’s not going anywhere. BTCH is a new coin to try out things that are just simply impossible with one blockchain that already exists.</p>
+          
+          <p>HUSH still has a low circulating supply (less than 15%) and will have on-chain public <a href="https://github.com/leto/hushlist/blob/master/whitepaper/protocol.pdf">HushLists</a> before any other coin. <a href="https://github.com/MyHush/hush-ng">HushNG</a> (Hush's all-in-one high speed messaging, transaction, and asset platform) is also about to be released.</p>
 
-          <p>Also Hush has very low circulating supply (less than 20% in circulation) and is minable, while BTCH will not be minable and the entire supply will be in circulation.</p>
+          <p>Additionally, Hush has very low circulating supply (less than 20% in circulation) and is minable, while BTCH will not be minable and the entire supply will already be in circulation.</p>
 
           <h3 id="what-exchanges-support-btch">What exchanges support BTCH?</h3>
 
           <p>The first exchange to support BTCH will be <a href="https://github.com/KomodoPlatform/BarterDEX/releases">BarterDEX</a>, atomic swaps have already been done with KMD and BTCH. Others will follow later.</p>
 
-          <h3 id="wallets">Wallet Support?</a>
+          <h3 id="wallets">Wallet Support?</h3>
 
-          BTCH is supported in the latest <a href="https://komodoplatform.com/en/downloads">Agama</a> wallet, which integrates with BarterDEX.
+          <p>BTCH is supported in the latest <a href="https://komodoplatform.com/en/downloads">Agama</a> wallet, which integrates with BarterDEX.</p>
 
-          <h3 id="total-supply">Total Supply?</h3>
+          <h3 id="total-supply">What is the total coin supply of BTCH?</h3>
 
           <p>21,000,000 coins, like Satoshi intended.</p>
 
-          <h3 id="sustainable-development">Sustainable development?</h3>
+          <h3 id="sustainable-development">Does BTCH have sustainable development?</h3>
 
-          <p>Yes, there will be a roughly 150,000 BTCH development fund managed by jl777 to fund ongoing needs of the community. The
+          <p>Yes, there will be a approximately 150,000 BTCH development fund managed by jl777 to fund ongoing needs of the community. The
           exact amount cannot be known until the costs of launching the network are known and what our "dust level" means for the snapshot data.</p>
 
-          <h3 id="what-will-you-do-with-satoshis-coins">What will you do with Satoshi’s Coins?</h3>
+          <p> The ~150,000 BTCH was calculated as a reserve amount after adding the total supply of coins across Hush, SuperSet, DEX, and BTC.</p>
 
-          <p>We have no plan to steal Satoshi’s coins like other coins, that seems disrepectful.</p>
+          <h3 id="full-whitepaper">BTCH Whitepaper?</h3>
 
-          <h3 id="full-whitepaper">Full Whitepaper?</h3>
-
-          <p>You better believe it, it will be released on Github soon.</p>
+          <p>You better believe it! You may view the pre-release version <a href="https://github.com/bitcoinhush/bitcoinhush/blob/master/whitepaper/btch.pdf">here</a>. Please note that this is a pre-release version, and that all content is a work in progress.</p>
 
           <p><center><img src="/btch_abstract.png" width="600" /></center></p>
 
           <h3 id="how-can-i-learn-more">How can I learn more?</h3>
 
-          <p>Join our friendly and welcoming <a href="https://discord.io/hush/">Discord</a> to learn more. This is an educational project and the more you learn, the better off the entire Bitcoin community will be.</p>
+          <p>Join our friendly and welcoming <a href="https://discord.io/hush/">Discord</a> to learn more. This is an educational project and the more you learn, the better off the entire Bitcoin and cryptocurrency community will be.</p>
 
-          <h3 id="this-site-could-be-better">This site could be better!!!</h3>
+          <h3 id="this-site-could-be-better">Pardon our dust!</h3>
 
-          <p><a href="https://github.com/bitcoinhush/bitcoinhush.github.io">Patches welcome!!!</a></p>
+          <p>This website was created through community effort. If you would like to contribute, please do so!</p>
+          
+          <p><a href="https://github.com/bitcoinhush/bitcoinhush.github.io">Patches are welcome!</a></p>
         </div>
       </div>
     </div>
