@@ -9,7 +9,7 @@ The first thing you need to know is that you need your private key from your Hus
 ![WIF](https://raw.githubusercontent.com/clamoring/Collecting_BTCH_airdrop/master/private_key_file.png "WIF")
 
 
-The actual WIF is the first part of that first line. It starts with 'KwN'. That is the WIF for the transparent address (taddr) listed, which starts with 't1UM'. This example shows two WIFs and their associated taddrs.
+The actual WIF is the first part of that first line. It starts with 'KwN'. That is the WIF for the transparent address (taddr) listed, which starts with 't1UM'. This example shows two WIFs and their associated taddrs. WIFs can start with '5', 'K', or 'L'.
 
 Once you have your WIF, download and install the [Agama wallet](https://www.komodoplatform.com/en/downloads) from Komodo. We recommend you always verify the checksum.
 
