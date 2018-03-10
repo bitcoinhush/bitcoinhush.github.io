@@ -1,0 +1,310 @@
+@media screen and (max-width: 1199px) {
+    #MainNav a {
+        max-width: 200px;
+    }
+    #MainNav .Navigation ul li {
+        margin: 0 0 0 10px;
+    }
+    #MainNav .Navigation ul li a {
+        font-size: 14px;
+    }
+    header .BigLogo {
+        max-width: 200px;
+    }
+    header .SectionTitle {
+        font-size: 20px;
+    }
+    footer .SctionContent {
+        width: 80%;
+        margin: 55px 10% 0;
+    }
+    .swiper-slide {
+        width: 80%;
+    }
+    .swiper-button-next {
+        right: 40px;
+    }
+    .swiper-button-prev {
+        left: 40px;
+    }
+}
+@media screen and (max-width: 991px) {
+    .IntroHush img {
+        display: inline-block;
+    }
+    .IntroHush video {
+        display: none;
+    }
+    #MainNav .container {
+        height: 80px;
+    }
+    .MobileEffectMenu {
+        position: absolute;
+        z-index: 9;
+        right: 15px;
+        top: 20px;
+        display: block;
+        margin: auto;
+        float: none;
+        border: none;
+        border-radius: 0;
+        visibility: visible;
+        overflow: hidden;
+        background: none;
+        width: 40px;
+        height: 40px;
+        background-color: transparent;
+        padding: 5px;
+    }
+    .MobileEffectMenu:before,
+    .MobileEffectMenu:after {
+        content: '';
+        display: inline-block;
+        width: 100%;
+        height: 3px;
+        position: absolute;
+        top: 0;
+        left: 0;
+        background-color: #DADADA;
+        -webkit-transition: all 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+        transition: all 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+    .MobileEffectMenu.Active:before,
+    .MobileEffectMenu.Active:after {
+        background-color: #74869B;
+    }
+    .MobileEffectMenu:before {
+        -webkit-transition-delay: 0s;
+        transition-delay: 0s;
+        -webkit-transform-origin: 0 50%;
+        transform-origin: 0 50%;
+        -webkit-transform: rotate3d(0, 0, 1, 45deg) translate3d(-110%, -110%, 0);
+        transform: rotate3d(0, 0, 1, 45deg) translate3d(-110%, -110%, 0);
+    }
+    .MobileEffectMenu.Active:before {
+        -webkit-transition-delay: 0.25s;
+        transition-delay: 0.25s;
+        -webkit-transform-origin: 0% 50%;
+        transform-origin: 0% 50%;
+        -webkit-transform: rotate3d(0, 0, 1, 45deg) translate3d(7px, 0px, 0);
+        transform: rotate3d(0, 0, 1, 45deg) translate3d(7px, 0px, 0);
+    }
+    .MobileEffectMenu:after {
+        -webkit-transition-delay: 0s;
+        transition-delay: 0s;
+        -webkit-transform-origin: 110% 50%;
+        transform-origin: 110% 50%;
+        -webkit-transform: rotate3d(0, 0, 1, -45deg) translate3d(-150%, -150%, 0);
+        transform: rotate3d(0, 0, 1, -45deg) translate3d(-150%, -150%, 0);
+    }
+    .MobileEffectMenu.Active:after {
+        -webkit-transition-delay: 0.35s;
+        transition-delay: 0.35s;
+        -webkit-transform-origin: 110% 50%;
+        transform-origin: 110% 50%;
+        -webkit-transform: rotate3d(0, 0, 1, -45deg) translate3d(-7px, -3px, 0);
+        transform: rotate3d(0, 0, 1, -45deg) translate3d(-7px, -3px, 0);
+    }
+    .MobileEffectMenu span {
+        display: block;
+        width: 100%;
+        height: 3px;
+        position: relative;
+        margin-bottom: 5px;
+        -webkit-transition: all 350ms ease;
+        -moz-transition: all 350ms ease;
+        -o-transition: all 350ms ease;
+        transition: all 350ms ease;
+        background-color: #DADADA;
+        -webkit-transform: translate3d(0,0,0);
+        -moz-transform: translate3d(0,0,0);
+        -o-transform: translate3d(0,0,0);
+        transform: translate3d(0,0,0);
+    }
+    .MobileEffectMenu span:nth-child(1) {
+        margin-top: 5px;
+    }
+    .MobileEffectMenu span:nth-child(3) {
+        display: inline-block;
+        width: 50%;
+        background-color: #DADADA;
+        float: left;
+    }
+    .MobileEffectMenu.Active span {
+        -webkit-transform: translate3d(50px,0,0);
+        -moz-transform: translate3d(50px,0,0);
+        -o-transform: translate3d(50px,0,0);
+        transform: translate3d(50px,0,0);
+    }
+    .MobileEffectMenu.Active span:nth-child(2) {
+        -webkit-transition-delay: 50ms;
+        -moz-transition-delay: 50ms;
+        -o-transition-delay: 50ms;
+        transition-delay: 50ms;
+    }
+    .MobileEffectMenu.Active span:nth-child(3) {
+        -webkit-transition-delay: 150ms;
+        -moz-transition-delay: 150ms;
+        -o-transition-delay: 150ms;
+        transition-delay: 150ms;
+    }
+    .MobileEffectMenu span:nth-child(2) {
+        -webkit-transition-delay: 50ms;
+        -moz-transition-delay: 50ms;
+        -o-transition-delay: 50ms;
+        transition-delay: 50ms;
+    }
+    .MobileEffectMenu span:nth-child(3) {
+        -webkit-transition-delay: 150ms;
+        -moz-transition-delay: 150ms;
+        -o-transition-delay: 150ms;
+        transition-delay: 150ms;
+    }
+    #MainNav .Navigation {
+        display: inline-block;
+        float: left;
+        width: 80%;
+        height: 100vh;
+        background-color: #0b0c21;
+        position: fixed;
+        z-index: 9999999;
+        left: 0;
+        top: 0;
+        display: none;
+    }
+    #MainNav .Navigation.Active {
+        display: inline-block;
+    }
+    #MainNav .Navigation ul {
+        padding: 50px 25px;
+        height: 100vh;
+    }
+    #MainNav .Navigation ul li {
+        display: inline-block;
+        width: 100%;
+        height: 40px;
+        padding: 0;
+        margin: 0;
+        border-bottom: 1px solid #31324266;
+    }
+    #MainNav .Navigation > ul > li a {
+        line-height: 40px;
+    }
+    #MainNav .Navigation > ul > li i {
+        float: right;
+        width: 40px;
+        height: 40px;
+        line-height: 32px;
+        cursor: pointer;
+    }
+    #MainNav .Navigation ul li ul.Submenu {
+        width: 100%;
+        background-color: #1e1f42;
+        padding: 0;
+        height: auto;
+    }
+    #MainNav .Navigation ul li ul.Submenu:after {
+        border-bottom: 5px solid #1e1f42;
+    }
+    #MainNav .Navigation ul li:hover ul.Submenu {
+        opacity: 0;
+        visibility: hidden;
+    }
+    #MainNav .Navigation ul li.Active ul.Submenu {
+        opacity: 1;
+        visibility: visible;
+    }
+    #MainNav .Navigation ul li ul.Submenu a {
+        text-transform: capitalize;
+    }
+
+
+    .swiper-container {
+        width: 100%;
+        height: 100%;
+        display: inline-block;
+        float: left;
+        overflow: hidden;
+        margin: 0 0 50px;
+        padding: 0 0 25px;
+    }
+    .swiper-slide {
+        height: auto;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        -webkit-justify-content: center;
+        justify-content: center;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        -webkit-align-items: center;
+        align-items: center;
+        float: left;
+        width: 100%;
+    }
+    .swiper-slide img {
+        max-width: 100%;
+    }
+    .swiper-button-next,
+    .swiper-button-prev {
+        display: none;
+    }
+    .swiper-container-horizontal>.swiper-pagination-bullets .swiper-pagination-bullet {
+        width: 10px;
+        height: 10px;
+    }
+}
+@media screen and (max-width: 768px) {
+    header {
+        padding: 80px 0 0;
+    }
+    header .SectionTitle {
+        font-size: 18px;
+        margin: 40px auto 100px;
+    }
+    header .VideoMobile {
+        width: 100%;
+    }
+    header .VideoMobile video {
+        width: 100%;
+        min-height: 200px;
+    }
+
+    .SctionContainer h3.SectionTitle,
+    #Compare .SectionTitle,
+    #About .SectionTitle {
+        font-size: 18px;
+    }
+    #About .SectionSubTitle {
+        font-size: 16px;
+    }
+    #Exchanges .Logos a {
+        display: inline-block;
+        max-width: 40%;
+        float: left;
+        margin: 0 5% !important;
+        line-height: 60px;
+    }
+    footer .SctionContent {
+        margin: 0;
+        width: 100%;
+    }
+    footer .Socials li a {
+        width: 30px;
+        height: 30px;
+        margin: 0 5px;
+        line-height: 30px;
+        font-size: 14px;
+    }
+    .swiper-container {
+        display: none;
+    }
+    .RoadmapMobile {
+        display: inline-block;
+        max-width: 100%;
+        margin-bottom: 50px;
+    }
+}
