@@ -11,7 +11,7 @@ The first thing you need to know is that you need your private key from your Hus
 
 The actual WIF is the first part of that first line. It starts with 'KwN'. That is the WIF for the transparent address (taddr) listed, which starts with 't1UM'. This example shows two WIFs and their associated taddrs.
 
-Once you have your WIF, download and install the [Agama wallet](https://www.komodoplatform.com/en/downloads) from Komodo. We recommend you always verify the checksum.
+Once you have your WIF, download and install the [Agama wallet](https://komodoplatform.com/komodo-wallets/) from Komodo. We recommend you always verify the checksum.
 
 Start by clicking 'Activate Coin'. (You can also select BTCH from the Lite menu if you want.)
 
